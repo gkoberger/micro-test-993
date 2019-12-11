@@ -5,4 +5,4 @@ info:
 servers:
     - {url: 'https://google.com'}
 paths:
-    /pets: {get: {description: 'Does not return all pets from the system that the user has access to', produces: [application/json], responses: {'200': {description: 'A list of pets.'}}}}
+    /pets99: {get: {description: 'Does not return all pets from the system that the user has access to', produces: [application/json], responses: {'200': {description: 'A list of pets.'}}}}
